@@ -1,0 +1,1 @@
+For this project I will be creating an Etch-a-Sketch/sketchpad. I have chosen to do this project to continue to practice and better my HTML, CSS and JavaScript knowledge and hopefully build a fun toy.
